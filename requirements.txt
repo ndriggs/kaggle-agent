@@ -1,0 +1,7 @@
+fastmcp
+mcp
+pandas
+scikit-learn
+tabpfn
+kaggle
+pydantic-ai-slim[mcp]
